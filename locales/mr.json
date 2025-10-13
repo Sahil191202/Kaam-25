@@ -1,0 +1,29 @@
+{
+  "splash": {
+    "appName": "जॉबकनेक्ट"
+  },
+  "languageSelection": {
+    "selectLanguage": "आपली भाषा निवडा",
+    "english": "इंग्रजी",
+    "hindi": "हिंदी",
+    "marathi": "मराठी",
+    "gujarati": "गुजराती"
+  },
+  "registration": {
+    "appName": "जॉबकनेक्ट",
+    "username": "वापरकर्तानाव",
+    "email": "ईमेल",
+    "mobile": "मोबाईल नंबर",
+    "gender": "लिंग",
+    "male": "पुरुष",
+    "female": "महिला",
+    "city": "शहर",
+    "jobCategory": "नोकरी श्रेणी",
+    "submit": "सबमिट करा"
+  },
+  "jobs": {
+    "applyNow": "आता अर्ज करा",
+    "changeLanguage": "भाषा बदला",
+    "logout": "लॉगआउट"
+  }
+}

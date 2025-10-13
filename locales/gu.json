@@ -1,0 +1,29 @@
+{
+  "splash": {
+    "appName": "જોબકનેક્ટ"
+  },
+  "languageSelection": {
+    "selectLanguage": "તમારી ભાષા પસંદ કરો",
+    "english": "અંગ્રેજી",
+    "hindi": "હિન્દી",
+    "marathi": "મરાઠી",
+    "gujarati": "ગુજરાતી"
+  },
+  "registration": {
+    "appName": "જોબકનેક્ટ",
+    "username": "વપરાશકર્તા નામ",
+    "email": "ઈમેલ",
+    "mobile": "મોબાઇલ નંબર",
+    "gender": "લિંગ",
+    "male": "પુરુષ",
+    "female": "સ્ત્રી",
+    "city": "શહેર",
+    "jobCategory": "નોકરી શ્રેણી",
+    "submit": "સબમિટ કરો"
+  },
+  "jobs": {
+    "applyNow": "હવે અરજી કરો",
+    "changeLanguage": "ભાષા બદલો",
+    "logout": "લોગઆઉટ"
+  }
+}

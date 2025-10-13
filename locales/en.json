@@ -1,0 +1,29 @@
+{
+  "splash": {
+    "appName": "JobConnect"
+  },
+  "languageSelection": {
+    "selectLanguage": "Select Your Language",
+    "english": "English",
+    "hindi": "Hindi",
+    "marathi": "Marathi",
+    "gujarati": "Gujarati"
+  },
+  "registration": {
+    "appName": "JobConnect",
+    "username": "Username",
+    "email": "Email",
+    "mobile": "Mobile Number",
+    "gender": "Select Gender",
+    "male": "Male",
+    "female": "Female",
+    "city": "City",
+    "jobCategory": "Job Category",
+    "submit": "Submit"
+  },
+  "jobs": {
+    "applyNow": "Apply Now",
+    "changeLanguage": "Change Language",
+    "logout": "Logout"
+  }
+}

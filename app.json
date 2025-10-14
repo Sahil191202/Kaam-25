@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "KaamDhaam",
-    "slug": "KaamDhaam",
+    "name": "Kaam-25",
+    "slug": "Kaam-25",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "kaamdhaam",
+    "scheme": "kaam-25",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -17,10 +17,7 @@
         "foregroundImage": "./assets/images/android-icon-foreground.png",
         "backgroundImage": "./assets/images/android-icon-background.png",
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
-      },
-      "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false,
-      "package": "com.Sahil191202.kaam25"
+      }
     },
     "web": {
       "output": "static",
@@ -42,14 +39,7 @@
       ]
     ],
     "experiments": {
-      "typedRoutes": true,
-      "reactCompiler": true
-    },
-    "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "a3a202c1-2f35-4bf9-a0d6-09806d7ee5fb"
-      }
+      "typedRoutes": true
     }
   }
 }

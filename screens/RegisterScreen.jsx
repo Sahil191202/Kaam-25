@@ -51,7 +51,7 @@ export default function RegisterScreen({ navigation }) {
   ];
 
   const handleSubmit = async () => {
-    await axios.post("http://localhost:3000/register", input);
+    await axios.post("https://kaam-25-backend.onrender.com/register", input);
     navigation.replace("Jobs", { jobCategory: input.jobCategory });
   };
 

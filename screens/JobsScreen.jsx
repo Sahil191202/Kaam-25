@@ -14,7 +14,7 @@ export default function JobsScreen({ route, navigation }) {
   const [jobs, setJobs] = useState([]);
 
   useEffect(() => {
-    fetch(`http://localhost:3000/jobs?category=${jobCategory}`)
+    fetch(`https://kaam-25-backend.onrender.com/jobs?category=${jobCategory}`)
       .then((res) => res.json())
       .then(setJobs)
       .catch((err) => console.error("Error fetching jobs:", err));
